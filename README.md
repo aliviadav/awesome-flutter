@@ -91,6 +91,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter Tips](https://medium.com/@diegoveloper) - Articles, tips & tricks in the development by [Diego Velásquez](https://twitter.com/diegoveloper).
 - [FilledStacks](https://www.filledstacks.com/) - Tutorials and guides on development by [Dane Mackier](https://www.instagram.com/filledstacks/).
 - [Awesome Flutter tips](https://github.com/erluxman/awesomefluttertips/) - Tips to help developers increase productivity by [erluxman](https://twitter.com/erluxman/).
+- [Flutter Tips](https://blog.canopas.com/flutter-1-minute-guide-to-useful-tips-and-libraries-in-2022-6dafba34ed40) - Articles, tips & tricks in the development by. Flutter — 1 Minute guide to Useful Tips and Libraries in 2022
+
 
 ### Tutorial
 
